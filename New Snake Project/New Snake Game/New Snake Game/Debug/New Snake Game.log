@@ -1,0 +1,4 @@
+﻿  New Snake Game.cpp
+C:\Users\humay\Desktop\New Snake Project\New Snake Game\New Snake Game\New Snake Game.cpp(80,6): warning C4551: function call missing argument list
+C:\Users\humay\Desktop\New Snake Project\New Snake Game\New Snake Game\New Snake Game.cpp(145,13): warning C4553: '==': result of expression not used; did you intend '='?
+  New Snake Game.vcxproj -> C:\Users\humay\Desktop\New Snake Project\New Snake Game\Debug\New Snake Game.exe
