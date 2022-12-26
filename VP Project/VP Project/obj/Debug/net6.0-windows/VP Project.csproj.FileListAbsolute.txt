@@ -1,0 +1,17 @@
+D:\VP Project\VP Project\VP Project\bin\Debug\net6.0-windows\VP Project.exe
+D:\VP Project\VP Project\VP Project\bin\Debug\net6.0-windows\VP Project.deps.json
+D:\VP Project\VP Project\VP Project\bin\Debug\net6.0-windows\VP Project.runtimeconfig.json
+D:\VP Project\VP Project\VP Project\bin\Debug\net6.0-windows\VP Project.dll
+D:\VP Project\VP Project\VP Project\bin\Debug\net6.0-windows\VP Project.pdb
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\VP Project.csproj.AssemblyReference.cache
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\VP_Project.Form1.resources
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\VP Project.csproj.GenerateResource.cache
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\VP Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\VP Project.AssemblyInfoInputs.cache
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\VP Project.AssemblyInfo.cs
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\VP Project.csproj.CoreCompileInputs.cache
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\VP Project.dll
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\refint\VP Project.dll
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\VP Project.pdb
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\VP Project.genruntimeconfig.cache
+D:\VP Project\VP Project\VP Project\obj\Debug\net6.0-windows\ref\VP Project.dll
